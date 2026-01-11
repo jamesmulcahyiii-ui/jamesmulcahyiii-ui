@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Transitioning from Theatre to Software Engineering. Focused on System Logic, Creative Coding, and Technical Art. Currently building a 26-month roadmap toward autonomy.
 
 <!--
 **jamesmulcahyiii-ui/jamesmulcahyiii-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
